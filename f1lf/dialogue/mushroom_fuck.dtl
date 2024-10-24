@@ -1,2 +1,4 @@
-[background arg="res://art/bg.png" fade="0.0"]
-femboy: **ahhn ahhn sex sounds**
+join femboy center
+femboy: Wherefore is the mushroom cock? For mine bussy doth require cream of mushroom.
+leave femboy [animation="Fade Out" wait="true"]
+[signal arg="start"]
