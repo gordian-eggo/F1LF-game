@@ -13,4 +13,4 @@ Base game fully operational!
 Nevermind, I forgot some stuff.
 
 23:38H::
-Windows and Linux versions up, Windows version needs testing.
+Windows and Linux versions up, Windows version needs testing. Executables are too big for Github's basic files shitter what's-her-shit so I'll be uploading zips next update.
