@@ -6,8 +6,11 @@ I have no idea what else to name this but for now it is the first in a line of F
 10-24-2024
 ----------
 
-23:13H
+23:13H::
 Base game fully operational! 
 
-23:23H
+23:23H::
 Nevermind, I forgot some stuff.
+
+23:38H::
+Windows and Linux versions up, Windows version needs testing.
